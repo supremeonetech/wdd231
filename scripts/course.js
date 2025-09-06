@@ -1,31 +1,61 @@
 const courses = [
-  { code: "WDD130", name: "Web Fundamentals", credits: 3, completed: true },
-  { code: "WDD131", name: "Web Development I", credits: 3, completed: true },
-  { code: "WDD231", name: "Web Frontend Development I", credits: 3, completed: false },
-  { code: "CSE110", name: "Programming Basics", credits: 2, completed: false }
+  {
+    subject: "WDD",
+    number: 130,
+    title: "Web Fundamentals",
+    credits: 3,
+    completed: true
+  },
+  {
+    subject: "WDD",
+    number: 131,
+    title: "Dynamic Web Fundamentals",
+    credits: 3,
+    completed: false
+  },
+  {
+    subject: "WDD",
+    number: 231,
+    title: "Frontend Development",
+    credits: 3,
+    completed: false
+  },
+  {
+    subject: "CSE",
+    number: 110,
+    title: "Introduction to Programming",
+    credits: 2,
+    completed: true
+  }
 ];
 
-const container = document.getElementById("courses");
-const totalCredits = document.createElement("p");
+const courseCards = document.querySelector("#course-cards");
+const totalCredits = document.querySelector("#total-credits");
 
-function displayCourses(list) {
-  container.innerHTML = "";
-  let creditSum = 0;
+function renderCourses(courseList) {
+  courseCards.innerHTML = "";
+  let credits = 0;
 
-  list.forEach(course => {
-    const div = document.createElement("div");
-    div.classList.add("course");
-    if (course.completed) div.classList.add("completed");
+  courseList.forEach(course => {
+    const card = document.createElement("div");
+    card.classList.add("course-card");
+    if (course.completed) card.classList.add("completed");
 
-    div.innerHTML = `<h3>${course.code} - ${course.name}</h3>
-                     <p>Credits: ${course.credits}</p>`;
-
-    container.appendChild(div);
-    creditSum += course.credits;
+    card.innerHTML = `
+      <h3>${course.subject} ${course.number}</h3>
+      <p>${course.title}</p>
+      <p>Credits: ${course.credits}</p>
+      <p>Status: ${course.completed ? "Completed ✅" : "In Progress ⏳"}</p>
+    `;
+    courseCards.appendChild(card);
+    credits += course.credits;
   });
 
-  totalCredits.textContent = `Total Credits: ${creditSum}`;
-  container.appendChild(totalCredits);
+  totalCredits.textContent = `Total credits displayed: ${credits}`;
 }
 
-displayCourses(courses);
+document.querySelector("#all").addEventListener("click", () => renderCourses(courses));
+document.querySelector("#wdd").addEventListener("click", () => renderCourses(courses.filter(c => c.subject === "WDD")));
+document.querySelector("#cse").addEventListener("click", () => renderCourses(courses.filter(c => c.subject === "CSE")));
+
+renderCourses(courses);
