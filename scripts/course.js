@@ -5,7 +5,7 @@ const courses = [
   { code: "CSE110", name: "Programming Basics", credits: 2, completed: false }
 ];
 
-const container = document.getElementById("course-container");
+const container = document.getElementById("courses");
 const totalCredits = document.createElement("p");
 
 function displayCourses(list) {
