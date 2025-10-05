@@ -1,0 +1,80 @@
+
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    background-color: #fdfdfd;
+    color: #333;
+}
+
+header, footer {
+    background-color: #004466;
+    color: white;
+    padding: 1rem;
+    text-align: center;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header img {
+    height: 40px;
+}
+
+header span {
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+
+#menu {
+    background: none;
+    border: none;
+    font-size: 1.5rem;
+    color: white;
+    cursor: pointer;
+}
+
+.navigation {
+    display: none;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.navigation.open {
+    display: block;
+}
+
+.navigation li {
+    margin: 0.5rem 0;
+}
+
+.navigation a {
+    color: white;
+    text-decoration: none;
+}
+
+.navigation a:hover {
+    text-decoration: underline;
+}
+
+main {
+    padding: 1rem;
+}
+
+h1, h2 {
+    color: #004466;
+}
+
+footer {
+    font-size: 0.9rem;
+}
+
+footer .social a {
+    color: white;
+    margin: 0 0.5rem;
+}

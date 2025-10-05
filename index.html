@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="WDD231 Home Page - Student Portfolio">
+  <meta name="author" content="Wisdom Okafor">
+  <title>WDD231 - Home</title>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles/normalize.css">
+  <link rel="stylesheet" href="styles/small.css">
+  <link rel="stylesheet" href="styles/larger.css">
+  <script src="scripts/navigation.js" defer></script>
+  <script src="scripts/date.js" defer></script>
+  <script src="scripts/course.js" defer></script>
+</head>
+<body>
+  <header>
+    <img src="images/logo.svg" alt="Site Logo">
+    <span>Wisdom Okafor</span>
+    <button id="menu" aria-expanded="false" aria-label="Toggle Navigation">☰</button>
+    <nav>
+      <ul class="navigation">
+        <li><a href="index.html" class="active">Home</a></li>
+        <li><a href="chamber/">Chamber</a></li>
+        <li><a href="final/">Final</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main>
+    <h1>Home</h1>
+    <section>
+      <h2>About Me</h2>
+      <p>Write about yourself here...</p>
+    </section>
+    <section>
+      <h2>Web Certificate Courses</h2>
+      <div id="course-filters">
+        <button id="all">All</button>
+        <button id="cse">CSE</button>
+        <button id="wdd">WDD</button>
+      </div>
+      <div id="course-cards"></div>
+      <p id="total-credits"></p>
+    </section>
+    <section>
+      <h2>Projects</h2>
+      <p>Details about chamber and final project links...</p>
+    </section>
+  </main>
+  <footer>
+    <div class="social">
+      <a href="https://supremeonetech.github.io/wdd231/" target="_blank" rel="noopener">GitHub</a> |
+      <a href="https://www.linkedin.com/in/wisdom-okafor-617b2b343/" target="_blank" rel="noopener">LinkedIn</a>
+    </div>
+    <p>&copy; <span id="year">2025</span> | Wisdom Okafor | Awka, Nigeria</p>
+    <p id="lastModified"></p>
+  </footer>
+</body>
+</html>
