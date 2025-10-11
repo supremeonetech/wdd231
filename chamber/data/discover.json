@@ -1,0 +1,50 @@
+[
+  {
+    "title": "City Central Park",
+    "image": "images/centralpark.webp",
+    "address": "123 Park Ave, Cityville",
+    "description": "A relaxing green space in the middle of the city with walking trails, fountains, and community events all year round."
+  },
+  {
+    "title": "City Museum of History",
+    "image": "images/museum.webp",
+    "address": "45 Heritage Street, Cityville",
+    "description": "Discover the rich history of the region through interactive exhibits, ancient artifacts, and local heritage collections."
+  },
+  {
+    "title": "Riverfront Market",
+    "image": "images/market.webp",
+    "address": "78 River Lane, Cityville",
+    "description": "A vibrant farmers market with fresh produce, local crafts, and live music every weekend."
+  },
+  {
+    "title": "City Tower",
+    "image": "images/tower.webp",
+    "address": "10 Skyline Road, Cityville",
+    "description": "The tallest building in the region with an observation deck offering panoramic views of the city and surrounding mountains."
+  },
+  {
+    "title": "Community Arts Center",
+    "image": "images/artscenter.webp",
+    "address": "200 Creative Blvd, Cityville",
+    "description": "Home to local art exhibitions, theater performances, and creative workshops for all ages."
+  },
+  {
+    "title": "City Aquarium",
+    "image": "images/aquarium.webp",
+    "address": "55 Ocean Drive, Cityville",
+    "description": "An underwater adventure featuring marine life from around the world, including a tunnel walk-through shark tank."
+  },
+  {
+    "title": "Greenleaf Botanical Gardens",
+    "image": "images/gardens.webp",
+    "address": "90 Garden Path, Cityville",
+    "description": "Beautifully landscaped gardens with rare plants, flower conservatories, and peaceful walking paths."
+  },
+  {
+    "title": "Mountain View Trail",
+    "image": "images/trail.webp",
+    "address": "End of Hilltop Road, Cityville",
+    "description": "A scenic hiking trail leading to stunning views of the valley and nearby mountains, popular for sunrise and sunset hikes."
+  }
+]

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Form Submission</title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <header><h1>Submission Received</h1></header>
+  <main id="results"></main>
+  <footer><p><a href="index.html">Back to Home</a></p></footer>
+
+  <script>
+    const params = new URLSearchParams(window.location.search);
+    const output = document.getElementById('results');
+    output.innerHTML = `
+      <h2>Thank you, ${params.get('name')}!</h2>
+      <p><strong>Email:</strong> ${params.get('email')}</p>
+      <p><strong>Message:</strong> ${params.get('message')}</p>
+    `;
+  </script>
+</body>
+</html>

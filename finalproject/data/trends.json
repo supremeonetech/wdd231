@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "title": "Fintech Revolution",
+    "category": "Finance",
+    "impact": "High",
+    "desc": "Mobile money and payment systems like M-Pesa, Flutterwave, and Paystack are empowering millions of unbanked Africans with digital financial services.",
+    "img": "images/fintech.jpg"
+  },
+  {
+    "id": 2,
+    "title": "AI in Healthcare",
+    "category": "Artificial Intelligence",
+    "impact": "High",
+    "desc": "Machine learning tools now assist doctors in diagnosing diseases, predicting outbreaks, and improving healthcare access across Africa.",
+    "img": "images/ai-health.jpg"
+  },
+  {
+    "id": 3,
+    "title": "5G Network Expansion",
+    "category": "Connectivity",
+    "impact": "High",
+    "desc": "5G rollout in countries like South Africa, Kenya, and Nigeria is improving internet speed and reliability for smart city and IoT applications.",
+    "img": "images/5g.jpg"
+  },
+  {
+    "id": 4,
+    "title": "E-Commerce Growth",
+    "category": "Business",
+    "impact": "High",
+    "desc": "Online marketplaces like Jumia and Takealot are transforming how Africans shop, boosting SME participation in digital trade.",
+    "img": "images/ecommerce.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Clean Energy Innovation",
+    "category": "Renewable Energy",
+    "impact": "High",
+    "desc": "Solar microgrids and off-grid solutions are powering remote areas, driving sustainability and lowering carbon emissions.",
+    "img": "images/solar.jpg"
+  },
+  {
+    "id": 6,
+    "title": "EdTech & Remote Learning",
+    "category": "Education",
+    "impact": "Medium",
+    "desc": "Platforms like uLesson and Eneza Education are providing online and mobile learning opportunities to students across Africa.",
+    "img": "images/edtech.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Agritech Solutions",
+    "category": "Agriculture",
+    "impact": "Medium",
+    "desc": "Smart farming tools, drones, and AI-driven platforms are helping farmers increase yields and monitor crops efficiently.",
+    "img": "images/agritech.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Blockchain & Digital Identity",
+    "category": "Blockchain",
+    "impact": "Medium",
+    "desc": "Blockchain is being used for secure digital identity systems, land registries, and transparent voting in several African countries.",
+    "img": "images/blockchain.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Cybersecurity Awareness",
+    "category": "Security",
+    "impact": "High",
+    "desc": "With digitalization on the rise, African startups are focusing on data protection and cyber defense solutions to secure online platforms.",
+    "img": "images/cybersecurity.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Data Centers & Cloud Growth",
+    "category": "Infrastructure",
+    "impact": "High",
+    "desc": "Massive investments in local data centers like Raxio and MainOne are supporting Africa’s growing digital economy.",
+    "img": "images/datacenter.jpg"
+  },
+  {
+    "id": 11,
+    "title": "Smart City Development",
+    "category": "Urban Tech",
+    "impact": "Medium",
+    "desc": "Cities like Kigali and Nairobi are adopting digital infrastructure for better traffic management, public services, and energy use.",
+    "img": "images/smartcity.jpg"
+  },
+  {
+    "id": 12,
+    "title": "HealthTech Startups",
+    "category": "HealthTech",
+    "impact": "Medium",
+    "desc": "Startups like Helium Health and LifeBank are using digital tools to connect hospitals, deliver blood, and manage records.",
+    "img": "images/healthtech.jpg"
+  },
+  {
+    "id": 13,
+    "title": "Electric Mobility",
+    "category": "Transportation",
+    "impact": "Medium",
+    "desc": "Electric bikes and buses are gaining popularity in East Africa, supported by renewable energy charging infrastructure.",
+    "img": "images/ev.jpg"
+  },
+  {
+    "id": 14,
+    "title": "Women in Tech Leadership",
+    "category": "Social Impact",
+    "impact": "Medium",
+    "desc": "Initiatives like SheCodes Africa and Women in Tech Africa are empowering women through mentorship and coding education.",
+    "img": "images/women-tech.jpg"
+  },
+  {
+    "id": 15,
+    "title": "Satellite Internet Access",
+    "category": "Connectivity",
+    "impact": "High",
+    "desc": "Providers like Starlink and local ISPs are expanding high-speed satellite internet to remote communities across the continent.",
+    "img": "images/satellite.jpg"
+  }
+]

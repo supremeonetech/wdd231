@@ -1,0 +1,107 @@
+[
+  {
+    "name": "Agodi Gardens",
+    "location": "Ibadan",
+    "type": "Park",
+    "description": "A lush botanical garden with water features, picnic areas, and playgrounds.",
+    "image": "images/agodi.jpg"
+  },
+  {
+    "name": "Mapo Hall",
+    "location": "Ibadan",
+    "type": "Colonial Building",
+    "description": "Historic town hall built in 1929, symbolizing Ibadan's political heritage.",
+    "image": "images/mapo.jpg"
+  },
+  {
+    "name": "Sango Festival",
+    "location": "Oyo Town",
+    "type": "Festival",
+    "description": "Annual celebration honoring Sango, the Yoruba god of thunder, with dance and rituals.",
+    "image": "images/sango.jpg"
+  },
+  {
+    "name": "Aso Ofi",
+    "location": "Iseyin",
+    "type": "Traditional Fabric",
+    "description": "Handwoven Yoruba textile known for its vibrant colors and cultural significance.",
+    "image": "images/asoofi.jpg"
+  },
+  {
+    "name": "Bower's Tower",
+    "location": "Ibadan",
+    "type": "Monument",
+    "description": "A panoramic viewpoint offering stunning views of Ibadan city from the top.",
+    "image": "images/bower.jpg"
+  },
+  {
+    "name": "Old Oyo National Park",
+    "location": "Sepeteri",
+    "type": "National Park",
+    "description": "A protected area rich in wildlife, history, and archaeological sites.",
+    "image": "images/oldoyo.jpg"
+  },
+  {
+    "name": "Ibadan Cultural Centre",
+    "location": "Ibadan",
+    "type": "Cultural Venue",
+    "description": "A hub for Yoruba arts, music, and traditional performances.",
+    "image": "images/culturalcentre.jpg"
+  },
+  {
+    "name": "Oke-Ogun Festival",
+    "location": "Oke-Ogun",
+    "type": "Festival",
+    "description": "Celebration of unity and heritage among the Oke-Ogun communities.",
+    "image": "images/okeogun.jpg"
+  },
+  {
+    "name": "Irefin Palace",
+    "location": "Ibadan",
+    "type": "Royal Residence",
+    "description": "Historic palace of the Irefin family, showcasing traditional Yoruba architecture.",
+    "image": "images/irefin.jpg"
+  },
+  {
+    "name": "Aleshinloye Market",
+    "location": "Ibadan",
+    "type": "Market",
+    "description": "A bustling market known for local crafts, fabrics, and fresh produce.",
+    "image": "images/aleshinloye.jpg"
+  },
+  {
+    "name": "Oyo Mesi Council",
+    "location": "Oyo Town",
+    "type": "Traditional Institution",
+    "description": "Council of chiefs who advise the Alaafin and uphold Yoruba customs.",
+    "image": "images/oyomesi.jpg"
+  },
+  {
+    "name": "Eleyele Lake",
+    "location": "Ibadan",
+    "type": "Natural Attraction",
+    "description": "A serene lake ideal for fishing, boating, and relaxation.",
+    "image": "images/eleyele.jpg"
+  },
+  {
+    "name": "Beere Roundabout",
+    "location": "Ibadan",
+    "type": "Historic Landmark",
+    "description": "A central junction with deep historical and cultural relevance.",
+    "image": "images/beere.jpg"
+  },
+  {
+    "name": "Oke-Ado Mosque",
+    "location": "Ibadan",
+    "type": "Religious Site",
+    "description": "One of the oldest mosques in Ibadan, reflecting Islamic heritage.",
+    "image": "images/okeado.jpg"
+  },
+  {
+    "name": "Iseyin Weaving Village",
+    "location": "Iseyin",
+    "type": "Craft Village",
+    "description": "A community of artisans preserving the tradition of handwoven Aso Ofi.",
+    "image": "images/weaving.jpg"
+  }
+]

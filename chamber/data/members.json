@@ -1,0 +1,9 @@
+[
+  {"name": "Tech Solutions Ltd.","address": "123 Main St, City","phone": "+234 800 111 2222","website": "https://techsolutions.com","image": "tech.png","membership": 3},
+  {"name": "Green Farms","address": "45 Rural Rd, City","phone": "+234 800 333 4444","website": "https://greenfarms.com","image": "farms.png","membership": 2},
+  {"name": "City Bank","address": "67 Finance Ave, City","phone": "+234 800 555 6666","website": "https://citybank.com","image": "bank.png","membership": 3},
+  {"name": "Elite Fitness","address": "89 Gym St, City","phone": "+234 800 777 8888","website": "https://elitefitness.com","image": "fitness.png","membership": 1},
+  {"name": "Bright Future School","address": "101 Education Rd, City","phone": "+234 800 999 0000","website": "https://brightfuture.edu","image": "school.png","membership": 2},
+  {"name": "Media Connect","address": "202 Broadcast Ln, City","phone": "+234 801 222 3333","website": "https://mediaconnect.com","image": "media.png","membership": 1},
+  {"name": "Golden Hotels","address": "303 Luxury Blvd, City","phone": "+234 801 444 5555","website": "https://goldenhotels.com","image": "hotel.png","membership": 3}
+]

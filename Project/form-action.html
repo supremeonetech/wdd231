@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Form Submission</title>
+</head>
+
+<body>
+  <h1>Thank You!</h1>
+  <p>Your message has been received.</p>
+  <ul>
+    <li><strong>Name:</strong>
+      <script>
+        document.write(new URLSearchParams(window.location.search).get("name"));
+      </script>
+    </li>
+    <li><strong>Email:</strong>
+      <script>
+        document.write(new URLSearchParams(window.location.search).get("email"));
+      </script>
+    </li>
+    <li><strong>Message:</strong>
+      <script>
+        document.write(new URLSearchParams(window.location.search).get("message"));
+      </script>
+    </li>
+  </ul>
+</body>
+
+</html>
