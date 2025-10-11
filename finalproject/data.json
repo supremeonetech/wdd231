@@ -1,0 +1,122 @@
+[
+  {
+    "name": "M-Pesa",
+    "country": "Kenya",
+    "sector": "Fintech / Mobile Payments",
+    "founded": 2007,
+    "image": "images/mpesa.jpg",
+    "description": "Mobile money service that enables users to send and receive money via mobile phones, greatly improving financial inclusion in East Africa."
+  },
+  {
+    "name": "Flutterwave",
+    "country": "Nigeria",
+    "sector": "Fintech / Payments Infrastructure",
+    "founded": 2016,
+    "image": "images/flutterwave.jpg",
+    "description": "Provides payment infrastructure for businesses across Africa, enabling seamless online and offline transactions."
+  },
+  {
+    "name": "Andela",
+    "country": "Nigeria / Pan-Africa",
+    "sector": "Talent / Software Engineering",
+    "founded": 2014,
+    "image": "images/andela.jpg",
+    "description": "Connects African software engineers with global remote jobs and helps build long-term engineering teams."
+  },
+  {
+    "name": "Zipline",
+    "country": "Rwanda / Ghana / US",
+    "sector": "Drone Logistics / Health Tech",
+    "founded": 2014,
+    "image": "images/zipline.jpg",
+    "description": "Uses autonomous drones to deliver medical supplies and vaccines to remote areas, reducing delivery times and saving lives."
+  },
+  {
+    "name": "Jumia",
+    "country": "Nigeria / Multiple Countries",
+    "sector": "E-Commerce / Marketplace",
+    "founded": 2012,
+    "image": "images/jumia.jpg",
+    "description": "A pan-African e-commerce platform offering goods, services, and logistics solutions across several African nations."
+  },
+  {
+    "name": "Farmcrowdy",
+    "country": "Nigeria",
+    "sector": "AgriTech / Farming",
+    "founded": 2016,
+    "image": "images/farmcrowdy.jpg",
+    "description": "Connects smallholder farmers with investors and resources to improve yields, market access, and profitability."
+  },
+  {
+    "name": "Chipper Cash",
+    "country": "Ghana / Nigeria / US",
+    "sector": "Fintech / Cross-Border Payments",
+    "founded": 2018,
+    "image": "images/chippercash.jpg",
+    "description": "Enables free and instant cross-border money transfers in Africa, offering seamless peer-to-peer payments."
+  },
+  {
+    "name": "Kobo360",
+    "country": "Nigeria",
+    "sector": "Logistics / Transportation Tech",
+    "founded": 2017,
+    "image": "images/kobo360.jpg",
+    "description": "A digital logistics platform connecting truckers with businesses for efficient cargo transport and real-time tracking."
+  },
+  {
+    "name": "Paystack",
+    "country": "Nigeria",
+    "sector": "Fintech / Payments",
+    "founded": 2015,
+    "image": "images/paystack.jpg",
+    "description": "Helps African businesses accept online payments via cards, bank transfers, and mobile money. Acquired by Stripe."
+  },
+  {
+    "name": "Solar Sister",
+    "country": "Uganda / Africa",
+    "sector": "Clean Energy / Social Enterprise",
+    "founded": 2010,
+    "image": "images/solarsister.jpg",
+    "description": "Empowers women entrepreneurs to distribute clean energy products like solar lamps in rural communities."
+  },
+  {
+    "name": "SafeBoda",
+    "country": "Uganda",
+    "sector": "Mobility / Ride-sharing",
+    "founded": 2014,
+    "image": "images/safeboda.jpg",
+    "description": "Motorcycle ride-hailing app that emphasizes safety, training, and convenience in urban transport across East Africa."
+  },
+  {
+    "name": "AltSchool Africa",
+    "country": "Nigeria",
+    "sector": "EdTech / Online Learning",
+    "founded": 2021,
+    "image": "images/altschool.jpg",
+    "description": "Offers online education, coding bootcamps, and upskilling programs to African learners seeking tech careers. :contentReference[oaicite:0]{index=0}"
+  },
+  {
+    "name": "Ayoba",
+    "country": "South Africa / Africa",
+    "sector": "Super App / Communication",
+    "founded": 2019,
+    "image": "images/ayoba.jpg",
+    "description": "African messaging platform offering chat, music, micro-apps, and mobile money integration to millions of users. :contentReference[oaicite:1]{index=1}"
+  },
+  {
+    "name": "SweepSouth",
+    "country": "South Africa",
+    "sector": "On-Demand Services / Home Services",
+    "founded": 2014,
+    "image": "images/sweepsouth.jpg",
+    "description": "On-demand booking platform for home cleaning and maintenance services, enabling gig work in the domestic services sector. :contentReference[oaicite:2]{index=2}"
+  },
+  {
+    "name": "Kuda",
+    "country": "Nigeria / UK",
+    "sector": "Neobank / Digital Banking",
+    "founded": 2019,
+    "image": "images/kuda.jpg",
+    "description": "Digital bank offering no-fee banking, instant payments, and mobile financial services in Nigeria and the UK. :contentReference[oaicite:3]{index=3}"
+  }
+]
